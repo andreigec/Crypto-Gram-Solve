@@ -84,7 +84,7 @@ namespace CryptoSolve
 
         public static void Init()
         {
-            var x = EmbeddedResources.ReadEmbeddedResource("dictionarywords.txt", Assembly.GetExecutingAssembly());
+            var x = EmbeddedResources.ReadEmbeddedResource("dictionarywords.txt");
 
             var x2 = x.Split(new[] { "\r\n" }, StringSplitOptions.RemoveEmptyEntries);
             foreach (var s in x2)
