@@ -1,5 +1,3 @@
-
-/SOURCE/CryptoGramSolve.6.0.ReSharper.user
-/SOURCE/_ReSharper.CryptoGramSolve
-/SOURCE/CryptoSolve/bin
-/SOURCE/CryptoSolve/obj
+*.suo
+bin
+obj
