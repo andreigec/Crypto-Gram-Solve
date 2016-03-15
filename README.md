@@ -9,7 +9,5 @@ CGS performs both decryption to plain text, as well as encryption to a cryptogra
 
 Images
 ======
-
-![cgs1](https://github.com/EvilSeven/Crypto-Solve/raw/master/INFO/cgs1.png)
-
-![cgs2](https://github.com/EvilSeven/Crypto-Solve/raw/master/INFO/cgs2.png)
+![cgs1](https://cloud.githubusercontent.com/assets/1860848/13766267/843a6848-eab4-11e5-814c-140fb127bd0a.png)
+![cgs2](https://cloud.githubusercontent.com/assets/1860848/13766266/84388c3a-eab4-11e5-949e-63afbd50bccb.png)
